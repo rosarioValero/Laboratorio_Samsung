@@ -1,0 +1,43 @@
+body{
+               width: 960px;
+               margin: 0 auto;
+          }
+          legend {
+               color:white;
+               background-color: red;
+               border-bottom: 1px solid black;
+               border-right: 0.5px solid black;
+               font-weight: normal;
+          }
+          fieldset {
+               border-radius: 5px;
+               background-color: #00FFFB;
+               border-color: #F8F8F8;
+               font-weight: bold;
+          }
+
+          .datosPersonales{
+               border-radius: 10px;
+               background-color: #FFFE00;
+               border-color: #F8F8F8;
+          }
+
+          .datosBanco{
+               border-radius: 5px;
+               background-color: #FFFE00;
+               border-color: #F8F8F8;
+          }
+          h1{
+               text-align: center;
+               color: blue;
+               text-shadow: yellow 0.1em 0.1em 0.1em;
+          }
+          button[type=button]{
+               background-color: #FFC0C0;
+               border-radius: 10px;
+               padding: 5px 20px;
+               margin: 4px 2px;
+               cursor: pointer;
+               font-size: 16px;
+               border-color: #F8F8F8;
+          }
